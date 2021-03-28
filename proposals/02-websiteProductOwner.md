@@ -10,8 +10,12 @@ I have a full time job and haven't been able to keep up with all the changes. Th
 
 I will also create and disperse bounties to motivate the community contributions to the website. 
 
+I will set up Continuous Integration/Continuous Deployment (CI/CD) so that pull requests that are approved and merged will automatically be pushed to a `test` environment and then ultimately deployed to the production environment.
+
+I will be reimbursed for monthly costs that will approximately be $50/month for server costs. Actual costs will be invoiced and made publically available.
+
 ## For
-Voting for this proposal will designate me, Thomas Le, as Product Owner of the official website for the DAPP Account DAO and empower me to perform the duties listed above.
+Voting for this proposal will designate me, Thomas Le, as Product Owner of the official website for the DAPP Account DAO and imbue me to perform the duties listed above.
 
 ## Against
 Voting against this proposal will not designate me, Thomas Le, as Product Owner of the official website for the DAPP Account DAO. 
