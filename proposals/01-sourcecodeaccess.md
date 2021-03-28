@@ -10,4 +10,4 @@ It was talked about early on that a few community members should be given access
 Voting for this proposal will give me, Thomas Le, read-only access to the smart contract source code repositories.
 
 ## Against
-Voting for this proposal will not give me, Thomas Le, read-only access to the smart contract source code repositories. No permissions will change on the source code repositories. 
+Voting against this proposal will not give me, Thomas Le, read-only access to the smart contract source code repositories. No permissions will change on the source code repositories. 
